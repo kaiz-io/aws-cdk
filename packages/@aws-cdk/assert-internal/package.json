@@ -27,7 +27,7 @@
     "@aws-cdk/cdk-build-tools": "0.0.0",
     "@aws-cdk/pkglint": "0.0.0",
     "@types/jest": "^27.0.3",
-    "jest": "^27.3.1",
+    "jest": "^27.4.2",
     "ts-jest": "^27.0.7"
   },
   "dependencies": {
@@ -40,7 +40,7 @@
   "peerDependencies": {
     "@aws-cdk/core": "0.0.0",
     "constructs": "^3.3.69",
-    "jest": "^27.3.1"
+    "jest": "^27.4.2"
   },
   "repository": {
     "url": "https://github.com/aws/aws-cdk.git",
